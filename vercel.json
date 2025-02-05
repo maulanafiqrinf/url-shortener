@@ -15,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://rebuild-laravel-tensorflow.vercel.app/",
+        "APP_URL": "https://url-shortener-mfnf.vercel.app/",
         "APP_KEY": "base64:f9+uGknDxUYaK59+y9nEmL2WeNv2u/R3ykZsiGo9X6I=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
