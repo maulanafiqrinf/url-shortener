@@ -14,7 +14,7 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://url-shortener-mfnf.vercel.app/",
         "APP_KEY": "base64:f9+uGknDxUYaK59+y9nEmL2WeNv2u/R3ykZsiGo9X6I=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
